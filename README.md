@@ -44,7 +44,7 @@ Cross platform compatible Video conferencing app created using flutter and Video
 Clone the repository to your local environment.
 
 ```js
-$ git clone 
+$ git clone https://github.com/c-o-d-e-y-o-d-a/mindspace-conference-app.git
 ```
 
 ### 2. Copy the .env.example file to .env file.
@@ -86,7 +86,8 @@ Bingo, it's time to push the launch button.
 flutter run
 ```
 
-#YouTube Sample Videos
+# YouTube Sample Videos
 
 Video from Screen1: [Screen 1](https://youtu.be/4mts04bh4kg?si=hU4PZgbIXz8WIviB)
+<br/>
 Video from Screen2: [Screen 2](https://youtu.be/davPdkG89Xs?si=Y_V58s0dVRjT5etE)
